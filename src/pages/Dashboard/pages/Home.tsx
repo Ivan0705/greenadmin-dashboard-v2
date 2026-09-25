@@ -1,11 +1,11 @@
 
-import DemographicCard from "../../ui/ecommerce/DemographicCard";
-import EcommerceMetrics from "../../ui/ecommerce/EcommerceMetrics";
-import MonthlySalesChart from "../../ui/ecommerce/MonthlySalesChart";
-import MonthlyTarget from "../../ui/ecommerce/MonthlyTarget";
-import RecentOrders from "../../ui/ecommerce/RecentOrders";
-import StatisticsChart from "../../ui/ecommerce/StatisticsChart";
-import PageMeta from "../../../../shared/ui/common/PageMeta";
+import DemographicCard from "../../../features/dashboard/ui/ecommerce/DemographicCard";
+import EcommerceMetrics from "../../../features/dashboard/ui/ecommerce/EcommerceMetrics";
+import MonthlySalesChart from "../../../features/dashboard/ui/ecommerce/MonthlySalesChart";
+import MonthlyTarget from "../../../features/dashboard/ui/ecommerce/MonthlyTarget";
+import RecentOrders from "../../../features/dashboard/ui/ecommerce/RecentOrders";
+import StatisticsChart from "../../../features/dashboard/ui/ecommerce/StatisticsChart";
+import PageMeta from "../../../shared/ui/common/PageMeta";
 
 export default function Home() {
   return (
