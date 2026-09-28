@@ -17,4 +17,4 @@ React, TypeScript, Tailwind, Docker, Vite
 ## Как запустить проект (Docker)
 1. Установите Docker Desktop.
 2. Выполните: docker compose up -d
-3. Откройте: http://locolhost:8080
+3. Откройте: http://localhost:8080
